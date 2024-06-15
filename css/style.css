@@ -234,14 +234,14 @@ img{
 }
 
 .scrolltop__icon{
-  font-size: 1.8rem;
+  font-size: 28px;
   color: var(--body-color);
 }
 
 
 .show-scroll{
   visibility: visible;
-  bottom: 1.5rem;
+  bottom: 24px;
 }
 
 
